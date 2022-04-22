@@ -1,5 +1,5 @@
-# Stock Price Prediction with a hybrid Deep Learning models of stock price and economic data
-## The Processes of building up a hybrid deep learning LSTM models with Robotic Process Automation (RPA), NLP for analyzing stock price and economic data
+# Stock Price Prediction with a Hybrid Deep Learning models of stock price and economic data
+## The Processes of building up a Hybrid Deep Learning LSTM models with Robotic Process Automation (RPA), NLP for analyzing stock price and economic data
 
 ### In RPA, the following steps will be run in regular schedule:
 
