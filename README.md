@@ -5,9 +5,9 @@
 
 ### Step 1 - Installing relevant dependences
 
-### Step 2 - Import relevant library
+### Step 2 - Import relevant libraries
 
-### Step 3 - Scrapping relevant data
+### Step 3 - Scrapping multiple data
 
 ### Step 4 - 
 
