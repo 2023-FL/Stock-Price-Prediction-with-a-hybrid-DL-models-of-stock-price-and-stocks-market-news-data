@@ -12,6 +12,8 @@ In RPA, the following steps will be run in regular schedule:
 
 ### Step 3 - Scrapping multiple data
 
-### Step 4 - 
+### Step 4 - Analysis and Training
+
+### Step 5 - 
 
 Construction in progress !
