@@ -10,10 +10,12 @@ In RPA, the following steps will be run in regular schedule:
 
 ### Step 2 - Import relevant libraries
 
-### Step 3 - Scrapping multiple data
+### Step 3a - Scrapping multiple data
 
-### Step 4 - Analysis and Training
+### Step 3b - Scrapping Stock Market News
 
-### Step 5 - 
+### Step 4 - Buidling moldels 
+
+### Step 5 - Analysis and Training
 
 Construction in progress !
