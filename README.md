@@ -1,5 +1,5 @@
 # Construction in progress, not completed yet
-# A prediction of stock price with Essemble Learning Model, which analyze of the historical data of one stock price and analyze of the sentiment of economic news and financial news about this stock title or stock number for the integration of both analysis results of stock price and the sentiment of economic news and financial news for such stock title or stock number for a better accuracy of prediction on stock price.
+# A prediction of stock price with Essemble Learning Model, which analyze of the historical data of one stock price and analyzes of the sentiment of economic news and financial news about this stock title or stock number for the integration of both analysis results of stock price and the sentiment of economic news and financial news for such stock title or stock number for a better accuracy of prediction on stock price.
 ## The Processes of building up a Hybrid Deep Learning LSTM models with Robotic Process Automation (RPA), NLP for analyzing stock price and economic data and predicting stock price in furture.
 ##[Under construction!!!]
 ### Table of Content
