@@ -1,6 +1,6 @@
 # Construction in progress, not completed yet
 # A prediction of stock price with Essemble Learning Model, which analyzes of the historical data of one stock price and analyzes of the sentiment of economic and financial news about this stock title or stock number for the integration of both analysis results of stock price and the sentiment of economic news and financial news for such stock title or stock number for a better accuracy of prediction on stock price.
-## The Processes of building up a Hybrid Deep Learning LSTM models with Robotic Process Automation (RPA), NLP for analyzing stock price and economic data and predicting stock price in furture.
+## The Processes of building up a Hybrid Deep Learning LSTM models with Robotic Process Automation (RPA), which will execute data scraption of stock price and financial news about one stock number the end-user input, and then it will run merge data of historical stock price with relevant stock news along the variation of date; next step will execute data analysis of historical stock price along the variation of date as well as data analysis of NLP for analyzing special financial words and sentences about the stock number along the variation of date. Further step is to weight the financial words and sentences in the past certain period discretely and compare the variation of stock price in between the past disceret periods of before and after for predicting stock price in furture.
 ##[Under construction!!!]
 ### Table of Content
 
@@ -15,11 +15,17 @@ In RPA, the following steps will be run in regular schedule:
 
 ### Step 3b - Scrapping Stock Market News
 
-### Step 4 - Buidling moldels 
+### Step 4 - buidling moldels
 
-### Step 5 - Analysis and Training
+  #### Step 4a - Weighting the financial news about the stock number in the past period, meraging analysis results of stock price and the wieghts of the financial news for the stock number in the dataset
 
-Construction in progress !
+  #### Step 4b - Integration of analysis results 
+
+  #### Step 4c - Training Model with repeating the analysis
+
+  #### Step 4d - Testing for the reliability of the model
+
+### Step 5 Deployment of The Model
 
 Sentiment Analysis
 This is a notebook containing Sentiment Analysis on Amazon Musical Instruments Reviews. I am interested in Natural Language Processing and that is my motivation to make this project. I think that sentiment analysis has a really powerful impacts in business developments because we can gain so many insights from here.
